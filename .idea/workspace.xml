@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e00a4d1-e3c3-4151-be3e-8b5ba132ab98" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Quran-app-flutter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deviceManager.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quran-app-flutter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curan/android/app/src/main/kotlin/com/example/quranapp/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curan/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/curan/android/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curan/lib/core/routes/app_routes.dart" beforeDir="false" afterPath="$PROJECT_DIR$/curan/lib/core/routes/app_routes.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curan/lib/core/theme/app_theme.dart" beforeDir="false" afterPath="$PROJECT_DIR$/curan/lib/core/theme/app_theme.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curan/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/curan/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curan/lib/providers/audio_provider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/curan/lib/providers/audio_provider.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curan/lib/providers/favorites_provider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/curan/lib/providers/favorites_provider.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curan/lib/screens/auth/forgot_password_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/curan/lib/screens/auth/forgot_password_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curan/lib/screens/auth/login_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/curan/lib/screens/auth/login_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curan/lib/screens/auth/register_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/curan/lib/screens/auth/register_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curan/lib/screens/biometric/biometric_setup_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/curan/lib/screens/biometric/biometric_setup_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curan/lib/screens/dashboard/dashboard_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/curan/lib/screens/dashboard/dashboard_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curan/lib/screens/favorites/favorites_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/curan/lib/screens/favorites/favorites_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curan/lib/screens/player/player_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/curan/lib/screens/player/player_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curan/lib/screens/settings/settings_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/curan/lib/screens/settings/settings_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curan/lib/screens/splash/splash_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/curan/lib/screens/splash/splash_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curan/lib/widgets/audio_player_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/curan/lib/widgets/audio_player_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curan/lib/widgets/histogram_chart.dart" beforeDir="false" afterPath="$PROJECT_DIR$/curan/lib/widgets/histogram_chart.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curan/lib/widgets/main_shell.dart" beforeDir="false" afterPath="$PROJECT_DIR$/curan/lib/widgets/main_shell.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curan/lib/widgets/persistent_player_wrapper.dart" beforeDir="false" afterPath="$PROJECT_DIR$/curan/lib/widgets/persistent_player_wrapper.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curan/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/curan/pubspec.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3E5OrsJKe2HouMJpYpc62MI6xMu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/makal/OneDrive/Documents/Quran-app-flutter",
+    "settings.editor.selected.configurable": "AndroidSdkUpdater"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e00a4d1-e3c3-4151-be3e-8b5ba132ab98" name="Changes" comment="" />
+      <created>1779465168997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779465168997</updated>
+    </task>
+    <servers />
+  </component>
+</project>

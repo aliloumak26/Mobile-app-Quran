@@ -1,0 +1,16 @@
+class AppRoutes {
+  AppRoutes._();
+
+  static const String splash = '/';
+  static const String authWrapper = '/authWrapper';
+  static const String biometricSetup = '/biometric-setup';
+  static const String login = '/login';
+  static const String register = '/register';
+  static const String forgotPassword = '/forgot-password';
+  static const String main = '/main';
+  static const String dashboard = '/dashboard'; // Kept for backwards compatibility
+  static const String player = '/player';
+  static const String favorites = '/favorites';
+  static const String settings = '/settings';
+  static const String prayerTimes = '/prayer-times';
+}
